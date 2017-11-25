@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\gayan\video-tutorial-stuct\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2423975464.index
+2882738816.index
+2371766391.index
+1456874936.index
+2188621844.index
+1516606058.index

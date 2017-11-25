@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Sat Nov 25 16:53:32 IST 2017
+org.eclipse.jst.jee.server\:Struts2starter=C\:\\Users\\gayan\\Desktop\\Dental\\apache-tomcat-8.5.23\\wtpwebapps\\Struts2starter
